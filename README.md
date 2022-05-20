@@ -1,4 +1,4 @@
-### Hi there 👋
+### solved.ac : https://solved.ac/profile/ggyo246
 
 ## 일정
 - 5/20 ~ : 그래픽스 공부
