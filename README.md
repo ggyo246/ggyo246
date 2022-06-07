@@ -1,4 +1,4 @@
-### solved.ac : https://solved.ac/profile/ggyo246
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ggyo246)](https://solved.ac/ggyo246/)
 
 ## 일정
 - 5/20 ~ : 그래픽스 / DirectX12 공부
